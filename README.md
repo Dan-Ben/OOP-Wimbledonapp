@@ -1,0 +1,1 @@
+This application was made for our first year Object Oriented Programming module. It is a small sports event based app containing details and media on the event such as dates, players, results, images and a video.
